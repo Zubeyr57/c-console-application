@@ -1,0 +1,6 @@
+1 wqe qweqwe 2003 qwewew 1 1
+2 qweqwe wqwwe 2000 asd 1 2
+3 nmnmn mnmnmn 2003 bmbnmnb 1 3
+4 zubeyr kuscu 2003 bilgisayar 2 1
+5 kuscu zubeyr 2000 amele 2 2
+-1366864610 mehmet sahin 1994 bilgisayar 3 3
